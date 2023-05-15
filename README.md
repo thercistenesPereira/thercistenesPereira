@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/thercistenesPereira)
 
 <div align="center">
-  <a href="https://github.com/thercistenesPereira">
+  <a href="https://thercistenespereira.github.io/">
     <img src="Welcome.png" width="500">
   </a>
 </div>
