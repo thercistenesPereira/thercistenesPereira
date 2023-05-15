@@ -1,4 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d401c7&height=120&section=header"/>
+![Profile views](https://gpvc.arturio.dev/thercistenesPereira)
+
+<div align="center">
+  <a href="https://github.com/thercistenesPereira">
+    <img src="Welcome.png" width="500">
+  </a>
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d401c7&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Eu+sou+o+Thercístenes!;Programador+FullStack;Seja+Bem-Vind@+ao+meu+perfil:%29)](https://git.io/typing-svg)
 
