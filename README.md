@@ -16,10 +16,4 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thercistenesPereira&layout=compact&hide_border=true&title_color=d401c7&text_color=f78b01&bg_color=0d111700" />
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thercistenesPereira}/count.svg" /></p> 
-<br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d401c7&height=120&section=footer"/>
