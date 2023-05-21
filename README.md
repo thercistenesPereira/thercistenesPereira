@@ -1,13 +1,10 @@
 ![Profile views](https://gpvc.arturio.dev/thercistenesPereira)
 
 <div align="center">
-  <a href="https://thercistenespereira.github.io/">
-    <img src="Welcome.png" width="500">
-  </a>
+  <img src = "https://github.com/thercistenesPereira/thercistenesPereira/assets/131725156/ab65841d-abea-4639-bd7c-89328d8e5a00">
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d401c7&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Eu+sou+o+Thercístenes!;Programador+FullStack;Seja+Bem-Vind@+ao+meu+perfil:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d401c7&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Thercístenes!:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thercistenesPereira&bg_color=0d111700&color=d401c7&line=f78b02&point=d401c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
