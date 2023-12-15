@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/thercistenesPereira)
-
 <div align="center">
   <img src = "https://github.com/thercistenesPereira/thercistenesPereira/assets/131725156/ab65841d-abea-4639-bd7c-89328d8e5a00">
 </div>
